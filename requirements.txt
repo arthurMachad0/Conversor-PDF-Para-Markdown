@@ -1,0 +1,6 @@
+docling
+docling-parse
+pandas
+numpy
+matplotlib
+seaborn
